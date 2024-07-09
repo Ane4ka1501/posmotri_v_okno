@@ -286,6 +286,7 @@ ol {
 .more-button {
   width: 399px;
   height: 34px;
+  margin-block-start: 23px;
 }
 
 .search-form__textfield:focus {
